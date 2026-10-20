@@ -1,0 +1,7 @@
+[2026-10-20T21:31:19Z] === AST ITERATION 1 START | repo=klen/muffin-donald sha=7bea4ab6 ===
+[2026-10-20T21:31:19Z] [iter=1] PHASE START: ast repo=klen/muffin-donald sha=7bea4ab6
+[2026-10-20T21:31:19Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T21:31:20Z] [iter=1] AST chunks built count=1 triples=12203
+[2026-10-20T21:31:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7bea4ab65688fd8f65d2c45e73f1853a97c89f0a/.complete
+[2026-10-20T21:31:20Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-20T21:31:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
